@@ -1,0 +1,13 @@
+KPI,Value,Formatted Value
+Total Sales,9089599.0,"$9,089,599"
+Total Profit,1524448.15572,"$1,524,448"
+Profit Margin,0.1677134663168309,16.77%
+Total Orders,19000.0,"19,000"
+Total Customers,4798.0,"4,798"
+Total Products,9644.0,"9,644"
+Total Countries,146.0,146
+Average Order Value,478.39994736842107,$478
+Average Profit per Order,80.23411345894736,$80
+Profitable Rows,31095.0,"31,095"
+Loss-Making Rows,5968.0,"5,968"
+Loss-Making Row Share,0.15842845765861427,15.84%

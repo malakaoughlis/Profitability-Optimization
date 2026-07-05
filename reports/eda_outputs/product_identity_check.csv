@@ -1,0 +1,5 @@
+Metric,Value
+Unique product IDs,9644
+Unique product names,3556
+Unique product combinations,10042
+Rows in product_performance table,10042

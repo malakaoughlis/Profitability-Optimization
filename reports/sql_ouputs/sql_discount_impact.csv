@@ -1,0 +1,7 @@
+discount_band,sales,profit,profit_margin,order_lines,orders,loss_making_rows,loss_rate
+No discount,6992734.0,1770695.27,0.2532,29009,15211,0,0.0
+Low discount,1962633.0,338189.26,0.1723,4679,3028,901,0.1926
+Moderate discount,1757296.0,173254.84,0.0986,6274,4363,1463,0.2332
+High discount,382540.0,-21155.61,-0.0553,967,843,601,0.6215
+Very high discount,1176078.0,-380944.82,-0.3239,6189,3674,5407,0.8736
+Extreme discount,371624.0,-412581.66,-1.1102,4172,2369,4172,1.0

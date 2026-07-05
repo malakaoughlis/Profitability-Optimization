@@ -313,16 +313,3 @@ The dashboard will be considered successful if it allows a business user to quic
 5. Which markets and regions deserve more attention?
 6. Are shipping costs affecting margins?
 7. What business actions should management consider next?
-
----
-
-# Next Step
-
-After this requirements document, the next step is to build the Power BI dashboard page by page:
-
-1. Executive Overview
-2. Profitability Analysis
-3. Discount Impact
-4. Market and Operations
-
-Each page should follow the structure defined in this document.

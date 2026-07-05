@@ -1,0 +1,16 @@
+Step,Reason
+Created working copy,Preserve the raw dataset
+Renamed columns,Improve readability and SQL compatibility
+Converted date columns,Enable time-based analysis
+Validated existing time columns,Check consistency between existing year column and order date
+Removed record_count,Remove non-useful technical counter column
+Cleaned text columns,Remove unnecessary leading/trailing spaces
+Created time variables,"Support monthly, quarterly, and yearly analysis"
+Created shipping_delay_days,Measure shipping efficiency
+Created profit_margin,Measure profitability relative to sales
+Created profit_status,Classify transactions by profitability
+Created discount_band,Analyze discounts using business-friendly groups
+Created shipping_cost_ratio,Measure shipping cost relative to sales
+Created order_size,Group order lines by quantity size
+Reviewed zero-sales rows,Avoid deleting records without business justification
+Reordered columns,Improve readability of the cleaned dataset

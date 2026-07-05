@@ -1,0 +1,21 @@
+customer_id,customer_name,segment,sales,profit,profit_margin,orders,profit_rank
+TC-209804,Tamara Chand,Corporate,19050.0,8981.32,0.4715,5,1
+RB-193604,Raymond Buch,Consumer,15117.0,6976.1,0.4615,6,2
+SC-200954,Sanjit Chand,Consumer,14145.0,5757.41,0.407,9,3
+HL-150404,Hunter Lopez,Consumer,12875.0,5622.43,0.4367,6,4
+AB-101054,Adrian Barton,Consumer,14476.0,5444.81,0.3761,10,5
+SP-209202,Susan Pistek,Consumer,16566.0,4974.51,0.3003,12,6
+TA-213854,Tom Ashbrook,Home Office,14596.0,4703.79,0.3223,4,7
+CA-127751,Cynthia Arntzen,Consumer,11493.0,4045.88,0.352,5,8
+PJ-188352,Patrick Jones,Corporate,8509.0,3986.0,0.4684,3,9
+CM-123854,Christopher Martinez,Consumer,8953.0,3899.89,0.4356,4,10
+PO-188652,Patrick O'Donnell,Consumer,13056.0,3778.2,0.2894,10,11
+EB-138402,Ellis Ballard,Corporate,9895.0,3459.66,0.3496,10,12
+BW-10651,Barry Weirich,Consumer,8957.0,3333.06,0.3721,4,13
+CA-119651,Carol Adams,Corporate,11653.0,3220.05,0.2763,7,14
+MG-181452,Mike Gockenbach,Consumer,9501.0,3144.44,0.331,4,15
+BE-113351,Bill Eplett,Home Office,10731.0,3112.92,0.2901,9,16
+CD-119201,Carlos Daly,Consumer,7581.0,3107.59,0.4099,5,17
+DO-134351,Denny Ordway,Consumer,9101.0,3056.29,0.3358,8,18
+KD-164954,Keith Dawkins,Corporate,8184.0,3038.63,0.3713,12,19
+CS-118451,Cari Sayre,Corporate,16655.0,2995.58,0.1799,11,20

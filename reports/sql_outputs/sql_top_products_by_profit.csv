@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,sales,profit,profit_margin,orders,profit_rank,sales_rank
+TEC-CO-10004722,Canon imageCLASS 2200 Advanced Copier,Technology,Copiers,61600.0,25199.93,0.4091,5,1,1
+OFF-AP-10004512,"Hoover Stove, Red",Office Supplies,Appliances,21148.0,10345.58,0.4892,7,2,8
+TEC-PH-10004823,"Nokia Smart Phone, Full Size",Technology,Phones,22261.0,8121.48,0.3648,11,3,5
+OFF-BI-10003527,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,Office Supplies,Binders,27454.0,7753.04,0.2824,10,4,3
+TEC-CO-10001449,Hewlett Packard LaserJet 3310 Copier,Technology,Copiers,18840.0,6983.88,0.3707,8,5,11
+FUR-CH-10002250,"Office Star Executive Leather Armchair, Black",Furniture,Chairs,15289.0,6123.26,0.4005,10,6,29
+TEC-PH-10004664,"Nokia Smart Phone, with Caller ID",Technology,Phones,30042.0,5455.95,0.1816,10,7,2
+OFF-AP-10002330,"Hamilton Beach Stove, Silver",Office Supplies,Appliances,18248.0,5452.46,0.2988,7,8,14
+TEC-PH-10000303,"Samsung Smart Phone, VoIP",Technology,Phones,16797.0,5356.81,0.3189,6,9,21
+FUR-CH-10002203,"SAFCO Executive Leather Armchair, Black",Furniture,Chairs,12301.0,5003.1,0.4067,5,10,53

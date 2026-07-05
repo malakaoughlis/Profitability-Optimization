@@ -1,5 +1,0 @@
-ship_mode,sales,profit,profit_margin,shipping_cost,shipping_cost_ratio,avg_shipping_delay_days,orders
-Standard Class,7578889.0,890596.02,0.1175,614627.66,0.0811,5.0,15154
-Second Class,2565747.0,292583.53,0.114,314111.79,0.1224,3.23,5119
-First Class,1831067.0,208104.68,0.1137,308102.54,0.1683,2.18,3821
-Same Day,667202.0,76173.07,0.1142,115973.72,0.1738,0.04,1347

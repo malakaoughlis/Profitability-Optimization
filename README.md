@@ -32,16 +32,6 @@ https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset?resource=do
 - `sql/`: SQL scripts
 - `reports/eda_outputs/`: EDA summary tables
 - `reports/sql_outputs/`: SQL analysis outputs
-- `excel/`: future Excel dashboard
+- `reports/findings/`: Findings
 - `powerbi/`: future Power BI dashboard
 - `docs/`: business documentation
-
-## Current Status
-
-- Data Understanding: completed
-- Data Cleaning: completed
-- Exploratory Data Analysis: completed
-- SQL Business Analysis: in progress
-- Excel Dashboard: not started
-- Power BI Dashboard: not started
-- Executive Report: not started

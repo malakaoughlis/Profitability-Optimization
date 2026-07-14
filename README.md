@@ -10,6 +10,10 @@ The goal is to identify the main drivers of profit and provide business recommen
 
 How can Nova Retail improve profitability without simply increasing sales?
 
+## Source
+
+https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset?resource=download
+
 ## Project Workflow
 
 1. Data Understanding
